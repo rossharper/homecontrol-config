@@ -6,6 +6,7 @@ git clone https://github.com/rossharper/boilercontrol.git ~/homecontrol/boilerco
 
 pushd ~/homecontrol/boilercontrol
 
+make PLATFORM=pi
 make install PLATFORM=pi
 
 popd
