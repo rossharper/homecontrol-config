@@ -8,7 +8,7 @@ pushd ~/homecontrol/xrfsensorcomms
 # Running npm under sudo, requires trust in serialport
 sudo npm install serialport -g --unsafe-perm --build-from-source
 
-npm install
+npm install --production
 sh installDaemon.sh
 
 popd
