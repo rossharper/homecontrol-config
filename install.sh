@@ -14,4 +14,6 @@ mkdir -p ~/homecontrol/logs
 
 . boilercontrol/install.sh
 
+. heatingd/install.sh
+
 set +x
