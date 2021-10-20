@@ -16,4 +16,6 @@ mkdir -p ~/homecontrol/logs
 
 . heatingd/install.sh
 
+# TODO doesnt setup raspberrysauce
+
 set +x
