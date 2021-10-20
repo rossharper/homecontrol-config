@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/rossharper/raspberrysauce.git ~/homecontrol/raspberrysauce
+git clone git@github.com:rossharper/raspberrysauce.git ~/homecontrol/raspberrysauce
 
 cp raspberrysauce/config.js ~/homecontrol/raspberrysauce/webapp/config/config.js
 cp raspberrysauce/sslconfig.js ~/homecontrol/rapsberrysauce/servers/config/sslconfig.js
