@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/rossharper/files2mqttjs.git ~/homecontrol/files2mqttjs
+git clone git@github.com:rossharper/files2mqttjs.git ~/homecontrol/files2mqttjs
 
 pushd ~/homecontrol/files2mqttjs
 
