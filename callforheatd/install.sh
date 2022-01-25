@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/rossharper/callforheatd.git ~/homecontrol/callforheatd
+git clone git@github.com:rossharper/callforheatd.git ~/homecontrol/callforheatd
 
 pushd ~/homecontrol/callforheatd
 
