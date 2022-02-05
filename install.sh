@@ -20,6 +20,8 @@ mkdir -p ~/homecontrol/logs
 
 . files2mqttjs/install.sh
 
+. mqttfileswitch/install.sh
+
 # TODO doesnt setup raspberrysauce
 
 set +x
